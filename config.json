@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdecrypt",
+        "uuid": 16247976,
+        "checksum": "dyiy4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
